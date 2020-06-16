@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="testClass">
+        <classes>
+            <class name="lab7.Positive"></class>
+            <class name="lab7.Negative"></class>
+        </classes>
+    </test>
+</suite>
+

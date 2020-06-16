@@ -1,0 +1,6 @@
+*.log
+build/
+.idea/
+/target/
+/.idea/
+/.allure/
